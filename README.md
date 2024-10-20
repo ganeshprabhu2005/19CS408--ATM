@@ -20,7 +20,9 @@ CALSS DIAGRAM
 ![WhatsApp Image 2024-10-20 at 21 45 27_def5d6d5](https://github.com/user-attachments/assets/e247aa69-b33b-4165-9818-f308fab90eeb)
 
 PACKAGE DIAGRAM
+
 ![WhatsApp Image 2024-10-20 at 21 45 35_0d3944b8](https://github.com/user-attachments/assets/18900d2d-c819-4b6d-9bcd-405babf3c81b)
 
 RESULT:
+
 All diagrams(Sequence,Activity,Use Case,Class and package) were successfully created and are clearly represented.

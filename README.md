@@ -13,7 +13,7 @@ SEQUENCE DIAGRAM
 
 ACTIVITY DIAGRAM
 
-![WhatsApp Image 2024-10-20 at 21 45 10_417e8bd4](https://github.com/user-attachments/assets/dc38df3b-6af2-4068-a8f4-9718c3ebbc50)
+![WhatsApp Image 2024-10-20 at 21 45 10_417e8bd4](https://github.com/user-attachments/assets/dc38df3b-6af2-4068-a8f4-9718c3ebbc50) 
 
 CALSS DIAGRAM
 
